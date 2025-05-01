@@ -49,7 +49,7 @@ def run_hiv_model(
 
     labels = ['Healthy T-cells', 'Latently Infected T-cells', 'Actively Infected T-cells', 'Virus']
     fig, ax = plt.subplots(figsize=(10, 6))
-    ax.set_title('HIV Infection Model for a Test Subject')
+    ax.set_title('Subject 1: Healthy/Average Person')
 
     ax.axvspan(0, 300, color='lightblue', alpha=0.3, label='Acute Infection')
     ax.axvspan(300, 2000, color='lightgreen', alpha=0.3, label='Chronic Infection')
