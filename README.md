@@ -13,4 +13,4 @@
 ![figure 3](figures/Figure_3.png)
 
 ## Research Poster
-![poster](poster.pdf)
+poster.pdf
