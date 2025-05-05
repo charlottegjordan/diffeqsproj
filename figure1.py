@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Figure 1: A previously healthy man T = 600 (healthy CD4 T-cell count is 500-1500) 
+Figure 1: A healthy man with average HIV/AIDS progression (T0 = 600, 
+(healthy CD4 T-cell count is 500-1500) 
 is infected and HIV takes an average 10 years (avg is 5-10) to progress to AIDS, 
 at which point death is imminent.
 """

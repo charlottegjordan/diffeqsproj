@@ -11,3 +11,6 @@
 
 ## Figure 3: Individual with Strong Immune System
 ![figure 3](Figure_3.png)
+
+## Research Poster
+![poster](poster.pdf)
